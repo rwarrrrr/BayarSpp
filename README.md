@@ -1,5 +1,5 @@
 ## Pengaduan Masyarakat
-Aplikasi Berbasis Website Sederhana Tentang Pembayaran SPP Menggunakan Laravel + Mysql
+Aplikasi Berbasis Website Sederhana Tentang Pembayaran SPP, Dibuat Menggunakan Laravel + Mysql
 
 ## Fitur Admin
 - Login
