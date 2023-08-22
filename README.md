@@ -27,8 +27,6 @@ Aplikasi Berbasis Website Sederhana Tentang Pembayaran SPP, Dibuat Menggunakan L
 ## Screenshoot
 ![home-spp](https://user-images.githubusercontent.com/43676356/81765550-4943b700-94fe-11ea-899f-7a2da1cec90d.PNG)
 
-## Author
-Riksa Paradila Pasa
 
 ## License
 MIT
